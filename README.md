@@ -12,6 +12,8 @@
 
 ## 快速开始
 
+> 📖 **完整部署文档**（GitHub → Vercel → 域名 → 激活码，含问题排查）：[`docs/部署运维完整指南.md`](docs/部署运维完整指南.md)
+
 ```bash
 npm install
 cp .env.example .env.local
